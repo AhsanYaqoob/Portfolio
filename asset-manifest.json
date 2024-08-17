@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.62d494b5.css",
+    "main.js": "/Portfolio/static/js/main.13c7febf.js",
+    "static/js/592.2a6d7505.chunk.js": "/Portfolio/static/js/592.2a6d7505.chunk.js",
+    "static/media/nestbook.png": "/Portfolio/static/media/nestbook.5ef05d819ae52156cc8e.png",
+    "static/media/ToDo.png": "/Portfolio/static/media/ToDo.f1eee374709f7bf4beec.png",
+    "index.html": "/Portfolio/index.html",
+    "main.62d494b5.css.map": "/Portfolio/static/css/main.62d494b5.css.map",
+    "main.13c7febf.js.map": "/Portfolio/static/js/main.13c7febf.js.map",
+    "592.2a6d7505.chunk.js.map": "/Portfolio/static/js/592.2a6d7505.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62d494b5.css",
+    "static/js/main.13c7febf.js"
+  ]
+}
